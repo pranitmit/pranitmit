@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Serving as Development Manager for development of new version of CRM and handling the entire team. <br> Responsible for all major aspects like Design, Usability and Quality of the product. <br> Good hands on experience on Microsoft Solution Frameworks and core responsibilities based on dynamics <br>like UI Architecting, Requirement Analysis, API customizations & Implementations in Projects, <br>Information Gathering and Projected business in service industry. <br> 16 years’ experience in design and engineering of mission critical software products for the Finance, <br>Insurance, Travel, Medical and E-Commerce industry. <br> Solid experience and skills designing, engineering and implementing Objected-Oriented software <br>solutions with an emphasis on industry best practices and design patterns such as MVC, MVVM, <br>Repository, Factory, Singleton, and Dependency Injection. <br> Implementations of various Payment Gateways like SLIM CD, PRISM PAY. <br> Experience in USSD Gateway, implemented various WCF services to map USSD codes in First Bank. <br> Implemented transaction Fraud Management System (Intellix) to notify customer and self-service <br>process. <br> Experience in developing and implementing Core Banking APIs with Finacle Services.<br> Good exposure in writing complex stored procedures (T-SQL), cursors, triggers, views in database <br>Microsoft SQL server 2005/2008 R2. <br> Extensive experience implementing software throughout the SDLC process <br> Hand on Experience in Mobile Development using Xamarin Forms<br> Implemented Push Notification Firebase Service <br> Ability to manage Client interaction, understand the overall requirement and day-to-day project related <br>activities, leading the Deliveries independently. <br> Adapt in End-to-End development of software products from requirement analysis to system study, <br>designing, coding, testing, debugging, documentation and implementation. <br> Knowledge of Microsoft Azure and PowerShel
 
-<!--
-**pranitmit/pranitmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pranitmit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pranitmit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranitmit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=pranitmit&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
